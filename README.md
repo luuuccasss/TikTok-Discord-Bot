@@ -84,7 +84,7 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 
 For any questions or support, feel free to reach out:
 
-- **GitHub**: [yourusername](https://github.com/FrenchGuys)
+- **GitHub**: [FrenchGuys](https://github.com/FrenchGuys)
 
 ## Acknowledgements
 
