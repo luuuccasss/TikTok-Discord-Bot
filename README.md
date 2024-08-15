@@ -3,7 +3,6 @@
 
 # TikTok Discord Bot
 
-## TikTok Discord Bot
 
 ## Overview
 
