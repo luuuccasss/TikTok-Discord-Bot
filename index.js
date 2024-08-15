@@ -74,3 +74,5 @@ client.on('messageCreate', async message => {
 });
 
 client.login(config.TOKEN);
+
+// I love you Nath
